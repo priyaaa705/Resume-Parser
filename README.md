@@ -1,0 +1,2 @@
+# Resume-Parser
+A resume parser is a compiler or interpreter that converts the unstructured form of data into a structured form. It is a component that automatically segregates the information into various fields and parameters like personal information, educational qualification, work experience, skills, achievements, projects, certifications to quickly help you identify the most relevant resumes based on your criteria. A parser takes input in the form of a sequence of program instructions and tends to build a data structure; a "parse tree," or an abstract syntax tree.
